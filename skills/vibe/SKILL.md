@@ -81,7 +81,16 @@ Fix any failures before proceeding.
 cd ./vibe-output && ~/.agents/skills/here-now/scripts/publish.sh .
 ```
 
-Read `stderr` for `publish_result.*` fields. Report to the user:
+Read `stderr` for `publish_result.*` fields. Example output:
+
+```
+publish_result.site_url=https://your-slug.here.now/
+publish_result.auth_mode=anonymous
+publish_result.expires_at=2026-02-27T00:00:00.000Z
+publish_result.claim_url=https://here.now/claim?slug=your-slug&token=abc123
+```
+
+Report to the user:
 
 - The live URL (always)
 - "Expires in 24 hours" (only if `publish_result.auth_mode=anonymous`)

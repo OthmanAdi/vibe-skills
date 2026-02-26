@@ -9,7 +9,7 @@
 [![Cursor](https://img.shields.io/badge/Cursor-Skills-purple)](https://docs.cursor.com/context/skills)
 [![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-Skills-4285F4)](https://geminicli.com/docs/cli/skills/)
 [![Codex](https://img.shields.io/badge/Codex-Skills-000000)](https://openai.com/codex)
-[![SkillCheck Validated](https://img.shields.io/badge/SkillCheck-Validated-4c1)](https://getskillcheck.com)
+[![skillcheck passed](https://raw.githubusercontent.com/olgasafonova/skillcheck-free/main/skill-check/passed.svg)](https://getskillcheck.com)
 
 Generate production-grade websites from natural language and deploy them live in seconds — via [here.now](https://here.now), the instant web host for AI agents.
 
