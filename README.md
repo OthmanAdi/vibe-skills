@@ -1,3 +1,6 @@
+<div align="center">
+<img src="media/logo.png" alt="vibe" width="120">
+
 # vibe
 
 > **Your AI agent. One sentence. A website that looks like a $2,000 freelancer built it.**
@@ -10,6 +13,8 @@
 [![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-Skills-4285F4)](https://geminicli.com/docs/cli/skills/)
 [![Codex](https://img.shields.io/badge/Codex-Skills-000000)](https://openai.com/codex)
 [![skillcheck passed](https://raw.githubusercontent.com/olgasafonova/skillcheck-free/main/skill-check/passed.svg)](https://getskillcheck.com)
+
+</div>
 
 Generate production-grade websites from natural language and deploy them live in seconds — via [here.now](https://here.now), the instant web host for AI agents.
 
